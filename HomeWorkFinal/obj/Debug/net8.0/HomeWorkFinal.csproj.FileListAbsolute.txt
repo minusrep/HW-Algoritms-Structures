@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\bin\Debug\net8.0\HomeWorkFinal.exe
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\bin\Debug\net8.0\HomeWorkFinal.deps.json
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\bin\Debug\net8.0\HomeWorkFinal.runtimeconfig.json
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\bin\Debug\net8.0\HomeWorkFinal.dll
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\bin\Debug\net8.0\HomeWorkFinal.pdb
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\obj\Debug\net8.0\HomeWorkFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\obj\Debug\net8.0\HomeWorkFinal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\obj\Debug\net8.0\HomeWorkFinal.AssemblyInfo.cs
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\obj\Debug\net8.0\HomeWorkFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\obj\Debug\net8.0\HomeWorkFinal.dll
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\obj\Debug\net8.0\refint\HomeWorkFinal.dll
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\obj\Debug\net8.0\HomeWorkFinal.pdb
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\obj\Debug\net8.0\HomeWorkFinal.genruntimeconfig.cache
+C:\Users\User\source\repos\HomeWorkFinal\HomeWorkFinal\obj\Debug\net8.0\ref\HomeWorkFinal.dll

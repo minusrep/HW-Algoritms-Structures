@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HomeWorkFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F85110B9-B8EB-4BE3-9654-8AD0F9690F37}|HomeWorkFinal\\HomeWorkFinal.csproj|c:\\users\\user\\source\\repos\\homeworkfinal\\homeworkfinal\\browserhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85110B9-B8EB-4BE3-9654-8AD0F9690F37}|HomeWorkFinal\\HomeWorkFinal.csproj|solutionrelative:homeworkfinal\\browserhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85110B9-B8EB-4BE3-9654-8AD0F9690F37}|HomeWorkFinal\\HomeWorkFinal.csproj|c:\\users\\user\\source\\repos\\homeworkfinal\\homeworkfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85110B9-B8EB-4BE3-9654-8AD0F9690F37}|HomeWorkFinal\\HomeWorkFinal.csproj|solutionrelative:homeworkfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85110B9-B8EB-4BE3-9654-8AD0F9690F37}|HomeWorkFinal\\HomeWorkFinal.csproj|c:\\users\\user\\source\\repos\\homeworkfinal\\homeworkfinal\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85110B9-B8EB-4BE3-9654-8AD0F9690F37}|HomeWorkFinal\\HomeWorkFinal.csproj|solutionrelative:homeworkfinal\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85110B9-B8EB-4BE3-9654-8AD0F9690F37}|HomeWorkFinal\\HomeWorkFinal.csproj|c:\\users\\user\\source\\repos\\homeworkfinal\\homeworkfinal\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85110B9-B8EB-4BE3-9654-8AD0F9690F37}|HomeWorkFinal\\HomeWorkFinal.csproj|solutionrelative:homeworkfinal\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkFinal\\HomeWorkFinal\\Application.cs",
+              "RelativeDocumentMoniker": "HomeWorkFinal\\Application.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkFinal\\HomeWorkFinal\\Application.cs",
+              "RelativeToolTip": "HomeWorkFinal\\Application.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwEUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:37:09.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkFinal\\HomeWorkFinal\\Stack.cs",
+              "RelativeDocumentMoniker": "HomeWorkFinal\\Stack.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkFinal\\HomeWorkFinal\\Stack.cs",
+              "RelativeToolTip": "HomeWorkFinal\\Stack.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:20:19.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrowserHistory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkFinal\\HomeWorkFinal\\BrowserHistory.cs",
+              "RelativeDocumentMoniker": "HomeWorkFinal\\BrowserHistory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkFinal\\HomeWorkFinal\\BrowserHistory.cs",
+              "RelativeToolTip": "HomeWorkFinal\\BrowserHistory.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwDwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:16:15.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HomeWorkFinal\\HomeWorkFinal\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWorkFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HomeWorkFinal\\HomeWorkFinal\\Program.cs",
+              "RelativeToolTip": "HomeWorkFinal\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T20:15:03.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
